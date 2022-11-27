@@ -1,6 +1,16 @@
 h1 {
-  color: blue;
+   color: blue;
+   margin-bottom: 0px;
 }
+
 .mb-3 {
-  display: inline;
+   display: inline;
+}
+
+h2 {
+   display: inline;
+}
+
+.unitchooser {
+   margin:0px 5px;
 }
